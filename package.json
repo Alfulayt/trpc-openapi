@@ -29,7 +29,7 @@
     "build": "rimraf dist && tsc -p tsconfig.build.json"
   },
   "peerDependencies": {
-    "@trpc/server": "^11.0.0",
+    "@trpc/server": "^11.0.0-rc.446",
     "zod": "^3.14.4"
   },
   "dependencies": {
